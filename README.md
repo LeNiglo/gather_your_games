@@ -12,6 +12,7 @@ Il serait donc intéressant de pouvoir statistiquement trouver le jeu le plus ad
 ## Solution
 
 RegroupeVosJeux (**RVJ**) vous permettrai de vous authentifier individuellement et de constituer des groupes d'utilisateurs.
+L'application serait accessible de en_GB et fr_FR, pensée mobile-first et disponible en PWA et AMP.
 
 ### Gestion des groupes et utilisateurs
 
